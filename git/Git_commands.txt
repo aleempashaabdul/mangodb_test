@@ -1,0 +1,31 @@
+git commends:
+
+
+1.First time when you are cloning
+
+git clone https://asdfasf
+
+2. git pull 
+
+3. git status
+
+4. git add filename
+
+5. git add foldername
+
+6 git add  .
+
+7.git status
+
+8.git commit -m "write your message"
+
+9.git checkout branchname
+
+10. git push origin branchname
+
+
+--------
+
+git stash ----
+
+
